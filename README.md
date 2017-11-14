@@ -1,6 +1,6 @@
 # canary
 
-> hi,canary.canary
+> hi,canary
 
 ## Build Setup
 
